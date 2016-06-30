@@ -1,6 +1,6 @@
 ---
 published: true
-title: Рисование маршрутов общественного транспорта в Openstreetmap
+title: Рисование маршрутов автобусов в Openstreetmap
 layout: post
 permalink: vvod_marshutov_OT_openstreetmap
 ---
