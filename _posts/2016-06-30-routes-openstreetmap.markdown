@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Рисование маршрутов общественного транспорта в Openstreetmap
 layout: post
 permalink: vvod_marshutov_OT_openstreetmap
@@ -14,9 +14,13 @@ permalink: vvod_marshutov_OT_openstreetmap
 
 слайд
 
-Скачайте небольшой кусок карты. В списке отношений вы найдёте маршруты общественного транспорта. Вы можете их выделить, и в контекстном меню сказать "Докачать участников"
+Скачайте небольшой кусок карты. 
 
-![relation members add](https://c2.staticflickr.com/8/7320/27391769083_d6b8b5d2a3_o.gif "Logo Title Text 1")
+![josm_data_download](https://c2.staticflickr.com/8/7381/27392739973_77b83d9a84_o.gif "josm_data_download")
+
+В списке отношений вы найдёте маршруты общественного транспорта. Вы можете их выделить, и в контекстном меню сказать "Докачать участников"
+
+![relation members download](https://c2.staticflickr.com/8/7320/27391769083_d6b8b5d2a3_o.gif "relation members download")
 
 
 Таким образом докачайте всю трассу нового маршрута.
