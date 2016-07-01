@@ -59,7 +59,7 @@ permalink: vvod_marshutov_OT_openstreetmap
 
 Добавляем в него два отношения: маршрут (Автобус №25: Нагорный бульвар - Красная площадь) и маршрут (Автобус №25: Красная площадь - Нагорный бульвар)
 
-![route_master]https://c2.staticflickr.com/8/7417/27400917843_a6a5286fe6_o.png "route_master")
+![r]https://c2.staticflickr.com/8/7417/27400917843_a6a5286fe6_o.png "r")
 
 
 
