@@ -59,6 +59,10 @@ permalink: vvod_marshutov_OT_openstreetmap
 
 Добавляем в него два отношения: маршрут (Автобус №25: Нагорный бульвар - Красная площадь) и маршрут (Автобус №25: Красная площадь - Нагорный бульвар)
 
+![route_master]https://c2.staticflickr.com/8/7417/27400917843_a6a5286fe6_o.png "route_master")
+
+
+
 На этом всё, данные можно загружать.
 
 
@@ -66,4 +70,3 @@ permalink: vvod_marshutov_OT_openstreetmap
 
 * [Карта осоциаленных маршруток Москвы](https://trolleway.github.io/newbuses)
 * [Ввод машрутов ОТ в wiki openstreetmap ](http://wiki.openstreetmap.org/wiki/User:Trolleway/%D0%92%D0%B2%D0%BE%D0%B4_%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BE%D0%B2_%D0%9E%D0%A2)
-
