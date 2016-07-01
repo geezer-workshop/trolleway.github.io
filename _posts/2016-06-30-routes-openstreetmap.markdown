@@ -48,7 +48,7 @@ permalink: vvod_marshutov_OT_openstreetmap
 
 Отношение готово. Закрываем его, и создаём другое - для направления от пункта "Б" к пункту "А". Ставим ему такие же теги, а тег name=Автобус №25: Красная площадь - Нагорный бульвар. Наполняем отношение аналогично предыдущему пункту.
 
-![two relations]http://wiki.openstreetmap.org/w/images/c/cd/Bus-route-2.gif "two relations")
+![two relations](http://wiki.openstreetmap.org/w/images/c/cd/Bus-route-2.gif "two relations")
 
 
 Создаём отношение, которое объединит оба направления:
@@ -59,7 +59,7 @@ permalink: vvod_marshutov_OT_openstreetmap
 
 Добавляем в него два отношения: маршрут (Автобус №25: Нагорный бульвар - Красная площадь) и маршрут (Автобус №25: Красная площадь - Нагорный бульвар)
 
-![r]https://c2.staticflickr.com/8/7417/27400917843_a6a5286fe6_o.png "r")
+![r](https://c2.staticflickr.com/8/7417/27400917843_a6a5286fe6_o.png "r")
 
 
 
