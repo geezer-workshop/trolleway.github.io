@@ -13,3 +13,5 @@ permalink: newbuses
 Я поднял веб-сервис, который регулярно рендрит веб-карту осоциаленных маршруток по данным Openstreetmap. Веб-карта хранится на сервере nextgis.com, и после релиза новой версии NextGIS Mobile её можно будет смотреть так же и в поле на Android.
 
 http://trolleway.nextgis.com/resource/89/display
+
+![map](https://c2.staticflickr.com/8/7571/27980294106_9a71702dce_o.png "map")
